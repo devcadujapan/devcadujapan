@@ -152,6 +152,8 @@ Me chamo Carlos Hisaba, tenho 49 anos e sou natural de São Paulo. Concluí o en
     src="https://github-readme-stats.vercel.app/api?username=devcadujapan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  <br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 

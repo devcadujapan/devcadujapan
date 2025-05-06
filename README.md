@@ -83,14 +83,6 @@ Me chamo Carlos Hisaba, tenho 49 anos e sou natural de São Paulo. Concluí o en
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="65px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"           
-/>
-<img 
-    align="left" 
     alt="GO-Lang" 
     title="GO-Lang"
     width="30px" 
@@ -128,6 +120,14 @@ Me chamo Carlos Hisaba, tenho 49 anos e sou natural de São Paulo. Concluí o en
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="65px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"           
 />
 <img 
     align="left" 

@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web / Programador Python `**
 
-Me chamo Carlos Hisaba, tenho 49 anos e sou natural de São Paulo. Concluí o ensino médio na EEPG Dr. Morato. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou vidrado por tecnologia e estudo várias Tecnologias. Compartilho meus estudos no Instagram, com o perfil chamado "[@hisaba.carlos](https://www.instagram.com/hisaba.carlos/)".
+Me chamo Carlos Hisaba, tenho 50 anos e sou natural de São Paulo. Concluí o ensino médio na cidade de São Paulo. Atualmente, resido no Japão há mais de 20 anos. Sou um entusiasta por tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel.
 
 <p align="left">
         <a href="https://github.com/devcadujapan?tab=repositories&sort=stargazers">

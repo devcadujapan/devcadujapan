@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web / Programador Python `**
 
-Me chamo Carlos Hisaba, tenho 50 anos e sou natural de São Paulo. Concluí o ensino médio na cidade de São Paulo. Atualmente, resido no Japão há mais de 20 anos. Sou um entusiasta por tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel.
+Olá, sou Carlos Hisaba, tenho 50 anos e sou natural de São Paulo - Brasil. Atualmente, resido no Japão há mais de 20 anos. Tenho o ensino médio completo e Teologia incompleto. Estudo algumas áreas de tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel e VBA.
 
 <p align="left">
         <a href="https://github.com/devcadujapan?tab=repositories&sort=stargazers">
@@ -67,30 +67,6 @@ Me chamo Carlos Hisaba, tenho 50 anos e sou natural de São Paulo. Concluí o en
 />
 <img 
     align="left" 
-    alt="GO-Lang" 
-    title="GO-Lang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="Ruby" 
-    title="Ruby"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg"           
-/>
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"         
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -112,14 +88,6 @@ Me chamo Carlos Hisaba, tenho 50 anos e sou natural de São Paulo. Concluí o en
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"                   
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"              
 />
 
 <br/>

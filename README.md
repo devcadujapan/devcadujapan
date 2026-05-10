@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web / Programador Python `**
 
-Olá, sou Carlos Hisaba, tenho 50 anos e sou natural de São Paulo - Brasil. Atualmente, resido no Japão há mais de 20 anos. Tenho o ensino médio completo e Teologia incompleto. Estudo algumas áreas de tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel e VBA.
+Olá, sou Carlos Hisaba, tenho 50 anos e sou natural de São Paulo - Brasil. Atualmente, resido no Japão há mais de 20 anos. Tenho o ensino médio completo e Teologia incompleto. Estudo e produzo App em algumas áreas da tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel e VBA.
 
 <p align="left">
         <a href="https://github.com/devcadujapan?tab=repositories&sort=stargazers">

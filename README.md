@@ -1,8 +1,16 @@
-# 👩🏻‍💻 Carlos Hisaba
+# 👩🏻‍💻 Carlos Hisaba (ヒサバ　カルロス)
 
 **`Desenvolvedor Web / Programador Python `**
 
+**`Web Developer / Python Programmer `**
+
 Olá, sou Carlos Hisaba, tenho 50 anos e sou natural de São Paulo - Brasil. Atualmente, resido no Japão há mais de 20 anos. Tenho o ensino médio completo e Teologia incompleto. Estudo e produzo App em algumas áreas da tecnologia e estudo atualmente Front-End, Programação em Python e Projetos em Excel e VBA.
+
+Hello, my name is Carlos Hisaba. I am 50 years old and I am originally from São Paulo, Brazil. I have been living in Japan for more than 20 years. I completed high school and partially completed a Theology degree. I study and develop apps in some areas of technology, and I am currently studying Front-End development, Python programming, and projects in Excel and VBA.
+
+こんにちは。カルロス・ヒサバと申（もう）します。50歳（さい）で、ブラジルのサンパウロ出身（しゅっしん）です。現在（げんざい）、日本（にほん）に20年以上（ねんいじょう）住（す）んでいます。
+高校（こうこう）を卒業（そつぎょう）し、神学（しんがく）は中退（ちゅうたい）しています。
+技術（ぎじゅつ）分野（ぶんや）でアプリの勉強（べんきょう）や制作（せいさく）をしており、現在（げんざい）はフロントエンド、Python（パイソン）プログラミング、Excel（エクセル）とVBAのプロジェクトを学（まな）んでいます。
 
 <p align="left">
         <a href="https://github.com/devcadujapan?tab=repositories&sort=stargazers">
@@ -94,3 +102,9 @@ Olá, sou Carlos Hisaba, tenho 50 anos e sou natural de São Paulo - Brasil. Atu
 <br/>
 
 ### Estou Aberto à Proprostas de Projetos e Trabalhos em Parceria.
+
+### I am open to project proposals and partnership work.
+
+##### プロジェクトの提案（ていあん）やパートナーとしての仕事（しごと）を受（う）け付（つ）けています。
+
+
